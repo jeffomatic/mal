@@ -1,3 +1,3 @@
 (executables
- (names step0_repl step1_read_print)
+ (names step0_repl step1_read_print step2_eval)
  (libraries core pcre))
